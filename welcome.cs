@@ -9,6 +9,6 @@ public class welcome : MonoBehaviour
 {
     public void startshopping()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //welcome message
     }
 }

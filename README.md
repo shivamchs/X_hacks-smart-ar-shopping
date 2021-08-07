@@ -1,6 +1,6 @@
 # X_hacks-smart-ar-shopping
 
-One-drive link for project folder: https://1drv.ms/u/s!AvGjaI5OWeiVgVQQqCGq0NxHkenv?e=dh5Ivr
+One-drive link for project folder:https://1drv.ms/u/s!AvGjaI5OWeiVgVQQqCGq0NxHkenv?e=YP1utI
 
 Summary of the project Smart AR Shopping is an app which can be used to find the shortest possible path inside a mall or supermarket passing through all the places where user has to buy something. The path will be shown to the user by the means of arrows in his/har virtual camera.
 

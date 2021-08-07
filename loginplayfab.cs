@@ -15,7 +15,7 @@ public class loginplayfab : MonoBehaviour
     public InputField password;
     public InputField user;
 
-    //public GameObject loginPanel;
+    //This is public GameObject loginPanel;
 
     public void Start()
     {
